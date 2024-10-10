@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/b2/31/72/b2317255288bdd400903cf6081532a94.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #CC99CC;
+}
+
+h1 {
+    padding-top: 1%;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    margin-top: -1.5%;
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: black;
+}
+
+ul {
+    font-size: 20px;
+}
+
+hr {
+    height: 2px;
+    width: 50%;
+    background-color: purple;
+    border-color: purple;
+  }
+
+.about_me {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.langs {
+    padding-right: 0.05%;
+    margin-top: -1%;
+    margin-left: 35%;
+    margin-bottom: 2%;
+}
+
+.lang_img {
+    margin-bottom: -2.5%;
+}
+
+.projects ul {
+    margin-top: -1%;
+    margin-left: 40%;
+}
