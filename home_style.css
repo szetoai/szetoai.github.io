@@ -1,8 +1,20 @@
+:root {
+    --yellow: #f1be32;
+    --golden-yellow: #feac32;
+    --dark-purple: #110815;
+    --light-grey: #efefef;
+  }
+
 body {
     background-image: url(https://i.pinimg.com/736x/b2/31/72/b2317255288bdd400903cf6081532a94.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
+}
+
+#color-changer {
+    margin-left: 43.5%;
+    margin-right: 43.5%;
 }
  
 main {
@@ -66,6 +78,11 @@ hr {
 
 .lang_img {
     margin-bottom: -2.5%;
+}
+
+.projects p {
+    margin-top: -15px;
+    margin-bottom: -5px;
 }
 
 .projects ul {
