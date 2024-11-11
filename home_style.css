@@ -6,10 +6,27 @@
   }
 
 body {
-    background-image: url(https://i.pinimg.com/736x/b2/31/72/b2317255288bdd400903cf6081532a94.jpg);
+    background-image: url(https://assets.justinmind.com/wp-content/uploads/2020/02/website-background-design-guide-768x492.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navlink {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.page {
+    display: inline;
 }
 
 #color-changer {
