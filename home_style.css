@@ -19,7 +19,8 @@ body {
     color: black;
     font-weight: bold;
     text-decoration: none;
-    border: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
 }
 
 .active {
@@ -42,7 +43,7 @@ body {
 main {
     margin-left: auto;
     margin-right: auto;
-    width: min-content;
+    width: 80%;
     background-image: linear-gradient(rgb(235, 95, 251),#36caf3,#b6df3b);
 }
 
