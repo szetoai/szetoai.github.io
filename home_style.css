@@ -105,7 +105,7 @@ hr {
 
 .projects table, th, td {
     max-width: 500px;
-    min-width: 200px;
+    min-width: 100px;
     border: 1px solid #110815;
     background-color: rgb(207, 169, 241);
 }
@@ -115,5 +115,5 @@ hr {
 }
 
 .bullets li {
-    margin-left: 40%;
+    margin-left: 34%;
 }
