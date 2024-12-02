@@ -103,9 +103,18 @@ hr {
     margin-right: auto;
 }
 
-.projects table, th, td {
+.projects table, .projects th, .projects td {
     max-width: 500px;
     min-width: 100px;
+    border: 1px solid #110815;
+    background-color: rgb(207, 169, 241);
+}
+
+.experience table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    min-width: 225px;
     border: 1px solid #110815;
     background-color: rgb(207, 169, 241);
 }
