@@ -44,7 +44,7 @@ main {
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-    background-image: linear-gradient(rgb(235, 95, 251),#36caf3,#b6df3b);
+    background-image: linear-gradient(rgb(235, 95, 251),#36caf3,#bb62e1);
 }
 
 h1 {
@@ -102,14 +102,14 @@ hr {
 }
 
 .projects table, th, td {
-    max-width: 388px;
+    max-width: 500px;
     min-width: 200px;
     border: 1px solid #110815;
     background-color: rgb(207, 169, 241);
 }
 
 .bullets ul {
-    margin-top: -1%;
+    margin-top: 5px;
 }
 
 .bullets li {
