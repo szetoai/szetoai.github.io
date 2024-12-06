@@ -105,7 +105,7 @@ hr {
 
 .projects table, .projects th, .projects td {
     max-width: 500px;
-    min-width: 100px;
+    min-width: 150px;
     border: 1px solid #110815;
     background-color: rgb(207, 169, 241);
 }
