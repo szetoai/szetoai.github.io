@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://assets.justinmind.com/wp-content/uploads/2020/02/website-background-design-guide-768x492.png);
+    background-image: url(https://img.pikbest.com/backgrounds/20241215/abstract-blue-background-with-some-smooth-lines-in-it--28see-more-my-portfolio-29_11256315.jpg!f305cw);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
@@ -43,8 +43,10 @@ body {
 main {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
     background-image: linear-gradient(rgb(235, 95, 251),#36caf3,#bb62e1);
+    border-style: double;
+    border-width: 5px;
 }
 
 h1 {
