@@ -283,8 +283,12 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .intro-lead-in {
+    max-width: 500px;
+}
+
 header .intro-text .intro-lead-in {
-    margin-bottom: 500px;
+    margin-bottom: 1250px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
