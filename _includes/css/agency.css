@@ -658,7 +658,7 @@ aside.clients img {
 
 section#about {
     background-color: #222;
-    background-image: url("img/about/dark-banner.png");
+    background-image: url('{{ site.baseurl }}/img/dark-banner.png');
     background-position: center;
     background-repeat: no-repeat;
 }
