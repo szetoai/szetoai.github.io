@@ -658,9 +658,10 @@ aside.clients img {
 
 section#about {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/about/dark-banner.png');
+    background-image: url('{{ site.baseurl }}/img/about/tech.png');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 section#about .section-heading {
