@@ -3,6 +3,7 @@ title: Maze Solver
 subtitle: Algorithms & Graphs
 layout: default
 modal-id: 1
+date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
