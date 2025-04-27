@@ -1,11 +1,10 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Maze Solver
+subtitle: Algorithms & Graphs
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+modal-id: 1
+img: dreams.png
+thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,11 +1,11 @@
 ---
-title: Treehouse
+title: AI Facial Recognition
 subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: face-recog.gif
+thumbnail: face-recog.gif
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

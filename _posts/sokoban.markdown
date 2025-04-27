@@ -1,11 +1,11 @@
 ---
-title: Dreams
+title: Sokoban
 subtitle: Website Design
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 3
+date: 2014-07-16
+img: sokoban.gif
+thumbnail: sokoban.gif
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
