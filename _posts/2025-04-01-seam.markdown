@@ -1,15 +1,16 @@
 ---
-title: Image Compressor (Seam Carving)
-subtitle: Website Design
+title: Image Compressor (Seam Carver)
+subtitle: Graphs, 2d Linked lists, Algorithms
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2025-04-01
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2025
+description: A more effective way to compress images without cropping or scaling. Calculates the least unique seam of pixels within an image and removes them, pushing together the resulting image with little to no difference in actual content. Additional features include adding seams back into the image, viewing the uniqueness of each pixel, and viewing the uniqueness of each seam.
+language: Java
+partner: Wesley Tran
+partner_link: https://www.linkedin.com/in/wesley-tran/
 
 ---

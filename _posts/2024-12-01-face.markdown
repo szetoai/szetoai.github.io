@@ -11,5 +11,6 @@ project-date: December 2024
 description: A facial recognition system to encode and identify faces via webcam. Able to store webcam images for future recognition, and upon viewing matches of images, notes down the time of appearance into a CSV file.
 language: Python
 partner: N/A
+partner_link: https://szetoai.github.io/#portfolioModal4
 
 ---
