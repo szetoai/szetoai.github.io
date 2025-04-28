@@ -1,15 +1,12 @@
 ---
 title: Sokoban
-subtitle: Website Design
+subtitle: Object Oriented Programming
 layout: default
-modal-id: 3
 date: 2014-07-16
 img: sokoban.gif
 thumbnail: sokoban.gif
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A recreation of the game Sokoban. The goal of the game is to cover all colored targets with a trophy of the same color. Holes destroy one item (or the player) when stepped on, and ice allows for multiple items to be moved at once (including the player). Other features include an undo mechanic, score keeping, and dynamic level creation.
 
 ---
