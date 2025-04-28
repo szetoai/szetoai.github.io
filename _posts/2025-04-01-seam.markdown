@@ -1,11 +1,11 @@
 ---
 title: Image Compressor (Seam Carver)
-subtitle: 2d Linked lists, Algorithms, World States
+subtitle: 2D Linked lists, Algorithms, World States
 layout: default
 modal-id: 2
 date: 2025-04-01
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: seam.gif
+thumbnail: seam.gif
 alt: image-alt
 project-date: April 2025
 description: A more effective way to compress images without cropping or scaling. Calculates the least unique seam of pixels within an image and removes them, pushing together the resulting image with little to no difference in actual content. Additional features include adding seams back into the image, viewing the uniqueness of each pixel, and viewing the uniqueness of each seam.
