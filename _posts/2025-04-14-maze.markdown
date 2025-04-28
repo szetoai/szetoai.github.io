@@ -3,8 +3,8 @@ title: Maze Solver
 subtitle: Algorithms & Graphs
 layout: default
 date: 2025-04-14
-img: maze.gif
-thumbnail: maze.gif
+img: maze_large.gif
+thumbnail: maze_large.gif
 project-date: April 2025
 description: Randomly generates mazes through Kruskal’s algorithm and Union Find, with a guaranteed path from start to end. Able to search through itself using DFS, BFS, or manual traversal with arrow keys. Renders the construction and the final path of the maze solving. Able to restart by pressing "r".
 language: Java
