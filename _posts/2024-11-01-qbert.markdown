@@ -3,7 +3,7 @@ title: Qbert
 subtitle: World States, Packet Messaging, Dynamic World Generation
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2024-11-01
 img: qbert.gif
 thumbnail: qbert.gif
 alt: image-alt

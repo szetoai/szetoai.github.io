@@ -3,13 +3,14 @@ title: Sokoban
 subtitle: Object Oriented Programming
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-03-01
 img: sokoban.gif
 thumbnail: sokoban.gif
 alt: image-alt
-project-date: April 2014
+project-date: March 2025
 description: A recreation of the game Sokoban. The goal of the game is to cover all colored targets with a trophy of the same color. Holes destroy one item (or the player) when stepped on, and ice allows for multiple items to be moved at once (including the player). Other features include an undo mechanic, score keeping, and dynamic level creation.
 language: Java
-partner: Jay Frohwirth (frohwirth.j@northeastern.edu)
+partner: Jay Frohwirth
+partner_link: frohwirth.j@northeastern.edu
 
 ---
