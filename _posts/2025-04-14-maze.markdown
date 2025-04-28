@@ -2,9 +2,13 @@
 title: Maze Solver
 subtitle: Algorithms & Graphs
 layout: default
-date: 2014-07-18
+date: 2025-04-14
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2025
+description: Randomly generates mazes through Kruskal’s algorithm and Union Find, with a guaranteed path from start to end. Able to search through itself using DFS, BFS, or manual traversal with arrow keys. Renders the construction and the final path of the maze solving.
+language: Java
+partner: Wesley Tran
+partner_link: https://www.linkedin.com/in/wesley-tran/
 
 ---

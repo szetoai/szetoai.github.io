@@ -1,6 +1,6 @@
 ---
 title: Image Compressor (Seam Carver)
-subtitle: Graphs, 2d Linked lists, Algorithms
+subtitle: 2d Linked lists, Algorithms, World States
 layout: default
 modal-id: 2
 date: 2025-04-01
