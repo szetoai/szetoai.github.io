@@ -9,6 +9,7 @@ thumbnail: sokoban.gif
 alt: image-alt
 project-date: April 2014
 description: A recreation of the game Sokoban. The goal of the game is to cover all colored targets with a trophy of the same color. Holes destroy one item (or the player) when stepped on, and ice allows for multiple items to be moved at once (including the player). Other features include an undo mechanic, score keeping, and dynamic level creation.
-partner: [Jay Frohwirth](frohwirth.j@northeastern.edu)
+language: Java
+partner: Jay Frohwirth (frohwirth.j@northeastern.edu)
 
 ---

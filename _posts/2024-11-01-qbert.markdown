@@ -1,15 +1,15 @@
 ---
 title: Qbert
-subtitle: Website Design
+subtitle: World States, Packet Messaging, Dynamic World Generation
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: qbert.gif
 thumbnail: qbert.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2024
+description: Originally built as a recreation of Classic 80's game Qbert, this project uses HTDP's big-bang animation software to simulate the game on a live server. Features in clude random enemy generation, 2 player support, and score/win condition tracking. To win, Qbert (orange) and Rbert (blue) must step on all cubes until they turn green, with some tiles cycling back to their original color when they are both stepped on and already green. Additionally, there are two types of enemies - Wanderers, which spawn/move randomly, who end the game if they collide with a player, and Fixers, which spawn at the top and move down, incrementing each block they step on (the opposite of the berts).
+language: Racket (isl+)
+partner: Wesley Tran (https://www.linkedin.com/in/wesley-tran/)
 
 ---
