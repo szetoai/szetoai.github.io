@@ -1,6 +1,6 @@
 ---
-title: Qbert
-subtitle: World States, Packet Messaging, Dynamic World Generation
+title: Multiplayer Qbert
+subtitle: Server Packets & World States
 layout: default
 modal-id: 5
 date: 2024-11-01
