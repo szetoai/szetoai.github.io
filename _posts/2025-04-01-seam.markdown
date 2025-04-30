@@ -14,3 +14,13 @@ partner: Wesley Tran
 partner_link: https://www.linkedin.com/in/wesley-tran/
 
 ---
+
+### What I Learned
+
+- **Time Complexity Management**: As we are dealing with *every single pixel* within the image, seeing as most images can be thousands upon thousands of pixels, managing time complexity was one of our key goals with this project. That meant avoiding complete rerenders, making sure reinsertion was about identical to removal, and only iterating over the entire image when necessary. This level of scrutiny when designing methods was new to me, and was a great constraint when designing this project.
+
+- **Deque-like/Stack Interfaces**: To represent each pixel, we landed on using a 2D deque-like structure, where there would be a line of sentinel pixels (not rendered) along the left and top of our image representation (the sentinels did not point to any nodes). Furthermore, we decided a stack was the best data structure to use for reinsertion, as we could easily reinsert the most recently removed seams when reversing the seam removals.
+
+- **Abstraction Techniques**: Originally, this project was only meant to carve seams vertically, which was then expanded into the horizontal version displayed above. The actual removal of horizontal pixels was easy, as it was more or less the same process as vertical (just left to right instead of top to bottom). The real challenge came from abstracting the reinsertion and the total weight (the black to white gradient mode) methods, as if we lost track of what mode we are currently in, we could end up reinserting a horizontal seam verticallly or displaying the horizontal weights while removing vertically. In the end, while the first draft had a subpar abstraction with just a boolean determining what mode we are removing in, future implementations have plans to abstract this into a proper interface so that we can add additional seam removal modes in.
+
+- **Field Mutation & Recursive Data Testing**: Oh boy. This was one of the biggest annoyances with this project. As mentioned above, most images contain an absurd amount of pixels within them. Now imagine you have to both create examples and test for seam finding, removal, addition, etc. on those thousands of pixels. Fun, right? Our compromise was creating custom test cases (i.e. our own small images) that could reasonably be testing sometime this century. Even then, between checking the consistency between mutual pointers within our deque, the correctness of the image rendered, and mutation on pixel fields, the name of the game with testing was organization and a *very* keen eye for well formedness within the pixel grid.

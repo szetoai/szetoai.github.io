@@ -22,4 +22,4 @@ partner_link: https://www.linkedin.com/in/wesley-tran/
 
 - **Private/Final Object Oriented Designs**: This was my first time using Private/Final in my designs, so learning to navigate dependencies and field access was quite a challenge!
 
-- **Class Management**: Surprisingly, this was one of my first times where I decided to separate some classes into different files, as the project had gotten to a scale where this seemed necessary. Organizing different interfaces, classes, and test cases into each file (and within each other) was actually a task that required a bit of careful consideration when thinking about readability, so much discussion was had between my partner and I.
+- **Class Management**: Surprisingly, this was one of my first times where I had to separate my Java code into different files, as the project had gotten to a scale where this seemed necessary. Organizing different interfaces, classes, and test cases into each file (and within each other) was actually a task that required a bit of careful consideration when thinking about readability, so much discussion was had between my partner and I.
