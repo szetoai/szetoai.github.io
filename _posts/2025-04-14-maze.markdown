@@ -14,9 +14,12 @@ partner_link: https://www.linkedin.com/in/wesley-tran/
 
 ---
 
-## What I Learned
+### What I Learned
 
 - **Algorithms**: Depth First Search, Breadth First Search, and Kruskal's Minimum Spanning Tree were all cornerstones in the learning process for this project. Visualizing the algorithms really helped drill in their core mechanics, even though Kruskal's was quite a headache the first time around with the random maze generation.
+
 - **Graphs & Hash Maps**: These two data structures were also essential to the maze creation and traversal, so deciding to work with them became a very insightful learning experience.
+
 - **Private/Final Object Oriented Designs**: This was my first time using Private/Final in my designs, so learning to navigate dependencies and field access was quite a challenge!
+
 - **Class Management**: Surprisingly, this was one of my first times where I decided to separate some classes into different files, as the project had gotten to a scale where this seemed necessary. Organizing different interfaces, classes, and test cases into each file (and within each other) was actually a task that required a bit of careful consideration when thinking about readability, so much discussion was had between my partner and I.
