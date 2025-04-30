@@ -26,5 +26,5 @@ partner_link: https://szetoai.github.io/#portfolioModal3
 - **World Mutation**: Our first implementation was a functional world, where each player movement returned a new world state as a result. In later implementations, we decided to use a imperative approach, where we mutated the world. This came with its own challenges in regards to testing, but overall proved to be an effective choice.
 
 ### Partners (chronological order)
-[Seth Margolin](https://www.linkedin.com/in/seth-margolin/)
+[Seth Margolin](https://www.linkedin.com/in/seth-margolin/),
 [Jay Frohwirth](https://www.linkedin.com/in/jay-frohwirth-627880272/)
