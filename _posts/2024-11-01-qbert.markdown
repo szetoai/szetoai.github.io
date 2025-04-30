@@ -11,10 +11,19 @@ project-date: November 2024
 description: Originally built as a recreation of Classic 80's game Qbert, this project uses HTDP's big-bang animation software to simulate the game on a live server. Features in clude random enemy generation, 2 player support, and score/win condition tracking. To win, Qbert (orange) and Rbert (blue) must step on all cubes until they turn green, with some tiles cycling back to their original color when they are both stepped on and already green. Additionally, there are two types of enemies - Wanderers, which spawn/move randomly, who end the game if they collide with a player, and Fixers, which spawn at the top and move down, incrementing each block they step on (the opposite of the berts).
 language: Racket (isl+)
 partner: Brian Norman, Seth Margolin, Wesley Tran
-partner_link: https://www.linkedin.com/in/wesley-tran/
+partner_link: https://szetoai.github.io/#portfolioModal5
 ---
-[test](https://www.linkedin.com/in/wesley-tran/)
+
 
 ### What I Learned
 
-- **Codebase Merging**: This 
+- **Codebase Merging**: This was the first non-simultaneous multi-partner project I'd worked intensively on, so dealing with different partners and implementations was a new experience to me. For each of 3 weeks (give or take), a partner and I would work on our implementation of the game (with more complex features in each iteration). First week was game basics, second was enemies, and third was multiplayer. And with each new partner, they would bring along another implementation of the previous week to merge with. This left the task of deciding which implementations to keep between the two qberts, and which design choices were compatible between versions/the new component to be added.
+
+- **Server Packets**: As my first entry into multiplayer games, the server was actually the least involved part of the assignment. What the actual problem was was how the world state would be handled between the players, as well as the abstraction between player 1 and 2. This led to a packet method being used, where player 1 would handle all of the logic of the world, such as spawning enemies and dealing with floor tiles, then sending the world as a packet to player 2, who would send its desired moves over to player 1 again. 
+
+- **Large Scale Documentation & Organization**: Between 3 partners, 2 players, and a whole lot of testing, this was by far my biggest project in Racket. So when it came to readability and organization, we had to be quite thorough. Everything from our coordinate system to what controls each bert used was documented, and kept in a README file within the project directory.
+
+### Partners (chronological order)
+- [Seth Margolin](https://www.linkedin.com/in/seth-margolin/)
+- Brian Norman
+- [Wesley Tran](https://www.linkedin.com/in/wesley-tran/)
