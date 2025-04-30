@@ -2,6 +2,7 @@
 title: Maze Solver
 subtitle: Algorithms & Graphs
 layout: default
+modal-id: 1
 date: 2025-04-14
 img: maze_large.gif
 thumbnail: maze_large.gif

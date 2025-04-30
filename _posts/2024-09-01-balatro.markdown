@@ -1,0 +1,16 @@
+---
+title: MyBalatro
+subtitle: Props, Hooks, React.js
+layout: default
+modal-id: 6
+date: 2024-09-01
+img: balatro.gif
+thumbnail: balatro.gif
+alt: image-alt
+project-date: September 2024
+description: This recreation of hit indie game Balatro was my way of learning React for the first time, where I used the basics of props and hooks in order to simulate the basic game elements of one of my favorite games. The goal of the game is to complete 24 rounds, which are beaten by creating poker hands of varying point values. After each round, you are able to purchase Jokers from the shop, which enhance your scoring potential.
+language: React, TypeScript, HTML/CSS
+partner: N/A
+partner_link: https://szetoai.github.io/#portfolioModal6
+
+---
