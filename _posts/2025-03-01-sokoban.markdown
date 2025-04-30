@@ -1,6 +1,6 @@
 ---
 title: Sokoban
-subtitle: Object Oriented Programming
+subtitle: Object Oriented Design & Mutable Worlds
 layout: default
 modal-id: 3
 date: 2025-03-01
@@ -14,3 +14,13 @@ partner: Jay Frohwirth
 partner_link: https://www.linkedin.com/in/jay-frohwirth-627880272/
 
 ---
+
+### What I Learned
+
+- **Scalable Design**: Originally, this game was only made with the trophies, targets, walls, boxes, and the player. The inclusion of holes and ice, along with the score and undo mechanics were later additions, which challenged our original design's flexibility when it came to adding new features/interactions.
+
+- **Object Oriented Design**: Multiple interfaces and objects were used to design the object and floor cells, allowing for gameplay to be organized properly.
+
+- **Visitor Pattern**: With so many types of object and floor tile interactions, the visitor pattern was a must with this project. Without relying on type checking, things like checking for ice, holes, or moveable objects became a bit trickier, which led to the inclusion of this design tactic.
+
+- **World Mutation**: Our first implementation was a functional world, where each player movement returned a new world state as a result. In later implementations, we decided to use a imperative approach, where we mutated the world. This came with its own challenges in regards to testing, but overall proved to be an effective choice.
