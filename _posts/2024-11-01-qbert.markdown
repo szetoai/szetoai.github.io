@@ -10,7 +10,11 @@ alt: image-alt
 project-date: November 2024
 description: Originally built as a recreation of Classic 80's game Qbert, this project uses HTDP's big-bang animation software to simulate the game on a live server. Features in clude random enemy generation, 2 player support, and score/win condition tracking. To win, Qbert (orange) and Rbert (blue) must step on all cubes until they turn green, with some tiles cycling back to their original color when they are both stepped on and already green. Additionally, there are two types of enemies - Wanderers, which spawn/move randomly, who end the game if they collide with a player, and Fixers, which spawn at the top and move down, incrementing each block they step on (the opposite of the berts).
 language: Racket (isl+)
-partner: Wesley Tran
+partner: Brian Norman, Seth Margolin, Wesley Tran
 partner_link: https://www.linkedin.com/in/wesley-tran/
-
 ---
+[test](https://www.linkedin.com/in/wesley-tran/)
+
+### What I Learned
+
+- **Codebase Merging**: This 

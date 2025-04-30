@@ -8,7 +8,7 @@ img: face-recog.gif
 thumbnail: face-recog.gif
 alt: image-alt
 project-date: December 2024
-description: A facial recognition system to encode and identify faces via webcam. Able to store webcam images for future recognition, and upon viewing matches of images, notes down the time of appearance into a CSV file.
+description: A facial recognition system to encode and identify faces via webcam. Able to store webcam images for future recognition, and upon viewing matches of images, notes down the time of appearance into a CSV file. This was a simple project designed to expand my knowlege on python libraries and AI, as well as provide a nice break from the *entirely functional* semester I'd just completed.
 language: Python
 partner: N/A
 partner_link: https://szetoai.github.io/#portfolioModal4
