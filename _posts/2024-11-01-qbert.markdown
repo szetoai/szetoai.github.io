@@ -24,6 +24,6 @@ partner_link: https://szetoai.github.io/#portfolioModal5
 - **Large Scale Documentation & Organization**: Between 3 partners, 2 players, and a whole lot of testing, this was by far my biggest project in Racket. So when it came to readability and organization, we had to be quite thorough. Everything from our coordinate system to what controls each bert used was documented, and kept in a README file within the project directory.
 
 ### Partners (chronological order)
-- [Seth Margolin](https://www.linkedin.com/in/seth-margolin/)
-- Brian Norman
-- [Wesley Tran](https://www.linkedin.com/in/wesley-tran/)
+[Seth Margolin](https://www.linkedin.com/in/seth-margolin/)
+Brian Norman
+[Wesley Tran](https://www.linkedin.com/in/wesley-tran/)
