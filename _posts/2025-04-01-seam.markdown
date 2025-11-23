@@ -2,7 +2,7 @@
 title: Image Compressor (Seam Carver)
 subtitle: 2D Deques, Stacks, Algorithms, World States
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2025-04-01
 img: seam.gif
 thumbnail: seam.gif

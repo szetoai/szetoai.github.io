@@ -2,7 +2,7 @@
 title: MyBalatro
 subtitle: Props, Hooks, React.js
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2024-09-01
 img: balatro.gif
 thumbnail: balatro.gif

@@ -2,7 +2,7 @@
 title: AI Facial Recognition
 subtitle: face_recognition, cv2, numpy, os
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2024-12-01
 img: face-recog.gif
 thumbnail: face-recog.gif

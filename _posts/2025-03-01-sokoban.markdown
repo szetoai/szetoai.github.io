@@ -2,7 +2,7 @@
 title: Sokoban
 subtitle: Object Oriented Design & Mutable Worlds
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2025-03-01
 img: sokoban.gif
 thumbnail: sokoban.gif
